@@ -1,3 +1,3 @@
 # Hi, I’m Roger Serra.
 
-Senior Software Engineer.
+I like to build and fix things.
